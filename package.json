@@ -34,7 +34,7 @@
     "mocha": "^6.1.4",
     "nock": "^11.1.0",
     "nyc": "^14.1.1",
-    "semantic-release": "^15.13.20",
+    "semantic-release": "^17.2.3",
     "sinon": "^7.0.0"
   },
   "engines": {
